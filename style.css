@@ -11,6 +11,11 @@ main {
     flex-wrap: wrap;
 }
 
+.contact_icon {
+    width: 20px;
+    height: 20px;
+}
+
 .portrait_container {
     margin: 0 20px;
 }
